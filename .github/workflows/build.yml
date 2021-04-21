@@ -1,4 +1,4 @@
-name: Packager (Retail)
+name: Packager
 
 on:
   create:
