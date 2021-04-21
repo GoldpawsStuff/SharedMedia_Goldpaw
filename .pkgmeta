@@ -1,0 +1,22 @@
+package-as: SharedMedia_Goldpaw
+enable-nolib-creation: yes
+
+embedded-libraries:
+  - callbackhandler
+  - libstub
+  - libsharedmedia-3-0
+
+move-folders:
+    SharedMedia_Goldpaw/SharedMedia_Goldpaw: SharedMedia_Goldpaw
+
+manual-changelog:
+    filename: CHANGELOG.md
+    markup-type: markdown
+
+license-output: LICENSE.txt
+
+ignore:
+    - CHANGELOG.md
+    - CODE_OF_CONDUCT.md
+    - LICENSE.md
+    - README.md
