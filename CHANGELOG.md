@@ -4,6 +4,9 @@ All notable changes to this project will be documented in this file. Be aware th
 The format is based on [Keep a Changelog](http://keepachangelog.com/) 
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.0.4-Release] 2021-10-18
+- Bump Classic Era toc to client patch 1.14.
+
 ## [2.0.3-Release] 2021-09-01
 - Bump TOC for BCC 2.5.2.
 
