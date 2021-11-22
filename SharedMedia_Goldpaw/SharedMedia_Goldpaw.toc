@@ -9,8 +9,6 @@
 ## Version: @project-version@
 
 ## X-Category: Artwork
-## X-Discord: https://discord.gg/MUSfWXd
-## X-Website: https://www.patreon.com/goldpawsstuff
 ## X-Curse-Project-ID: 93875
 ## X-Wago-ID: R4N2lmKL
 ## X-License: Custom
